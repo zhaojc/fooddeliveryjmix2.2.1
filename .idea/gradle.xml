@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CourierSystem" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/CourierSystem" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/CourierSystem" name="CourierSystem">
+                <projects>
+                  <project path="$PROJECT_DIR$/CourierSystem" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/order-api" name="order-api-addon">
+                <projects>
+                  <project path="$PROJECT_DIR$/order-api" />
+                  <project path="$PROJECT_DIR$/order-api/order-api" />
+                  <project path="$PROJECT_DIR$/order-api/order-api-starter" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/OrderSystem" name="OrderSystem">
+                <projects>
+                  <project path="$PROJECT_DIR$/OrderSystem" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/restaurant-api" name="restaurant-api-addon">
+                <projects>
+                  <project path="$PROJECT_DIR$/restaurant-api" />
+                  <project path="$PROJECT_DIR$/restaurant-api/restaurant-api" />
+                  <project path="$PROJECT_DIR$/restaurant-api/restaurant-api-starter" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/RestaurantSystem" name="RestaurantSystem">
+                <projects>
+                  <project path="$PROJECT_DIR$/RestaurantSystem" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/UserOidcPlagin" name="UserOidcPlagin-addon">
+                <projects>
+                  <project path="$PROJECT_DIR$/UserOidcPlagin" />
+                  <project path="$PROJECT_DIR$/UserOidcPlagin/useroidcplagin" />
+                  <project path="$PROJECT_DIR$/UserOidcPlagin/useroidcplagin-starter" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FoodDelivery-all" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/CourierSystem" />
+            <option value="$PROJECT_DIR$/FoodDelivery-all" />
+            <option value="$PROJECT_DIR$/OrderSystem" />
+            <option value="$PROJECT_DIR$/RestaurantSystem" />
+            <option value="$PROJECT_DIR$/UserOidcPlagin" />
+            <option value="$PROJECT_DIR$/UserOidcPlagin/useroidcplagin" />
+            <option value="$PROJECT_DIR$/UserOidcPlagin/useroidcplagin-starter" />
+            <option value="$PROJECT_DIR$/order-api" />
+            <option value="$PROJECT_DIR$/order-api/order-api" />
+            <option value="$PROJECT_DIR$/order-api/order-api-starter" />
+            <option value="$PROJECT_DIR$/restaurant-api" />
+            <option value="$PROJECT_DIR$/restaurant-api/restaurant-api" />
+            <option value="$PROJECT_DIR$/restaurant-api/restaurant-api-starter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OrderSystem" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/OrderSystem" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RestaurantSystem" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RestaurantSystem" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/UserOidcPlagin" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/UserOidcPlagin" />
+            <option value="$PROJECT_DIR$/UserOidcPlagin/useroidcplagin" />
+            <option value="$PROJECT_DIR$/UserOidcPlagin/useroidcplagin-starter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/order-api" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/order-api" />
+            <option value="$PROJECT_DIR$/order-api/order-api" />
+            <option value="$PROJECT_DIR$/order-api/order-api-starter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/restaurant-api" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/restaurant-api" />
+            <option value="$PROJECT_DIR$/restaurant-api/restaurant-api" />
+            <option value="$PROJECT_DIR$/restaurant-api/restaurant-api-starter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

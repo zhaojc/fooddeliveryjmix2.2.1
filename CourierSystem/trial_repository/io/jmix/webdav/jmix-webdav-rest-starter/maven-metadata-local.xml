@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.jmix.webdav</groupId>
+  <artifactId>jmix-webdav-rest-starter</artifactId>
+  <versioning>
+    <latest>2.2.1</latest>
+    <release>2.2.1</release>
+    <versions>
+      <version>2.2.1</version>
+    </versions>
+    <lastUpdated>20240408201648</lastUpdated>
+  </versioning>
+</metadata>

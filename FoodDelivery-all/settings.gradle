@@ -1,0 +1,8 @@
+rootProject.name = 'FoodDelivery-all'
+
+includeBuild '../RestaurantSystem'
+includeBuild '../CourierSystem'
+includeBuild '../OrderSystem'
+includeBuild '../UserOidcPlagin'
+includeBuild '../restaurant-api'
+includeBuild '../order-api'

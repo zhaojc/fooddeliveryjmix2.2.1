@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CourierSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CourierSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FoodDeliveryJmix.iml" filepath="$PROJECT_DIR$/.idea/FoodDeliveryJmix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrderSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OrderSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestaurantSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RestaurantSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useroidcplagin-starter/UserOidcPlagin-addon.useroidcplagin-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/useroidcplagin-starter/UserOidcPlagin-addon.useroidcplagin-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useroidcplagin/UserOidcPlagin-addon.useroidcplagin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/useroidcplagin/UserOidcPlagin-addon.useroidcplagin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.company.CourierSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.company.CourierSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.company.OrderSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.company.OrderSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.company.RestaurantSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.company.RestaurantSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useroidcplagin-starter/com.company.UserOidcPlagin-addon.useroidcplagin-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/useroidcplagin-starter/com.company.UserOidcPlagin-addon.useroidcplagin-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useroidcplagin/com.company.UserOidcPlagin-addon.useroidcplagin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/useroidcplagin/com.company.UserOidcPlagin-addon.useroidcplagin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-api-starter/com.company.order-api-addon.order-api-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-api-starter/com.company.order-api-addon.order-api-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-api/com.company.order-api-addon.order-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-api/com.company.order-api-addon.order-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restaurant-api-starter/com.company.restaurant-api-addon.restaurant-api-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/restaurant-api-starter/com.company.restaurant-api-addon.restaurant-api-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restaurant-api/com.company.restaurant-api-addon.restaurant-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/restaurant-api/com.company.restaurant-api-addon.restaurant-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-api-starter/order-api-addon.order-api-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-api-starter/order-api-addon.order-api-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-api/order-api-addon.order-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-api/order-api-addon.order-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restaurant-api-starter/restaurant-api-addon.restaurant-api-starter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/restaurant-api-starter/restaurant-api-addon.restaurant-api-starter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restaurant-api/restaurant-api-addon.restaurant-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/restaurant-api/restaurant-api-addon.restaurant-api.main.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="JmixProjectModulesStateV2">
+    <option name="hasState" value="true" />
+    <option name="moduleState">
+      <JmixModuleStateV2>
+        <option name="artifactGroup" value="com.company" />
+        <option name="artifactVersion" value="0.0.1-SNAPSHOT" />
+        <option name="buildFilePath" value="$MODULE_DIR$/../../order-api/build.gradle" />
+        <option name="buildScriptDependencies">
+          <Dependency configuration="classpath" group="io.jmix.gradle" name="jmix-gradle-plugin" version="2.2.1.1" />
+        </option>
+        <option name="buildSystemName" value="Gradle" />
+        <option name="jmixVersion" value="2.2.1" />
+        <option name="mavenLocalURI" value="file:$MAVEN_REPOSITORY$/" />
+        <option name="moduleName" value="order-api-addon" />
+        <option name="rootBuildFilePath" value="$MODULE_DIR$/../../order-api/build.gradle" />
+        <option name="rootProjectName" value="order-api-addon" />
+        <option name="stateBuildScriptRepositories">
+          <Repository url="https://plugins.gradle.org/m2" />
+        </option>
+      </JmixModuleStateV2>
+    </option>
+  </component>
+</module>
