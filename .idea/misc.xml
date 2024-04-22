@@ -6,13 +6,17 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/CourierSystem" />
+    <file type="web" url="file://$PROJECT_DIR$/FoodDelivery-all" />
     <file type="web" url="file://$PROJECT_DIR$/order-api" />
     <file type="web" url="file://$PROJECT_DIR$/OrderSystem" />
     <file type="web" url="file://$PROJECT_DIR$/restaurant-api" />
     <file type="web" url="file://$PROJECT_DIR$/RestaurantSystem" />
     <file type="web" url="file://$PROJECT_DIR$/UserOidcPlagin" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21_PREVIEW" project-jdk-name="zulu-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>

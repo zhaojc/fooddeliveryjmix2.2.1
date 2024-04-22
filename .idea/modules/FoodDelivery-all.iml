@@ -3,7 +3,8 @@
   <component name="JmixProjectModulesStateV2">
     <option name="moduleState">
       <JmixModuleStateV2>
-        <option name="moduleName" value="restaurant-api-addon" />
+        <option name="compositeProjectRoot" value="true" />
+        <option name="moduleName" value="FoodDelivery-all" />
       </JmixModuleStateV2>
     </option>
   </component>

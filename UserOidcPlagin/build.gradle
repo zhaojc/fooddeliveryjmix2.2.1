@@ -1,5 +1,8 @@
 buildscript {
     repositories {
+        maven {
+            url = uri("https://plugins.gradle.org/m2/")
+        }
         gradlePluginPortal()
     }
     dependencies {
@@ -16,10 +19,14 @@ subprojects {
     apply plugin: 'io.jmix'
 
     repositories {
-        mavenCentral()
         maven {
-        url 'https://global.repo.jmix.io/repository/public'
-    }
+            url = uri("https://plugins.gradle.org/m2/")
+        }
+        mavenCentral()
+//        mavenLocal()
+        maven {
+            url 'https://global.repo.jmix.io/repository/public'
+        }
     }
 
     jmix {
@@ -45,6 +52,7 @@ subprojects {
 
     publishing {
         repositories {
+
             maven {
                 url = 'https://myrepo/releases/'
                 credentials {

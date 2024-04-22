@@ -8,6 +8,8 @@ dependencies {
     implementation 'io.jmix.flowui:jmix-flowui-kit'
     implementation 'io.jmix.security:jmix-security-data'
 
+    api 'io.jmix.gradle:jmix-gradle-plugin:2.2.1.1'
+
     api 'io.jmix.oidc:jmix-oidc-starter'
     api 'org.keycloak:keycloak-spring-security-adapter:22.0.4'
 

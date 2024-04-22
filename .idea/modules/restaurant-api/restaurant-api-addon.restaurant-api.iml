@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
   <component name="JmixProjectModulesStateV2">
-    <option name="hasState" value="true" />
     <option name="moduleState">
       <JmixModuleStateV2>
-        <option name="artifactGroup" value="com.company" />
-        <option name="artifactName" value="restaurant-api" />
-        <option name="artifactVersion" value="0.0.1-SNAPSHOT" />
-        <option name="bomVersion" value="2.2.1" />
-        <option name="buildFilePath" value="$MODULE_DIR$/../../../restaurant-api/restaurant-api/restaurant-api.gradle" />
-        <option name="buildSystemName" value="Gradle" />
-        <option name="dependencies">
-          <Dependency configuration="implementation" group="io.jmix.core" name="jmix-core-starter" />
-          <Dependency configuration="implementation" group="io.jmix.data" name="jmix-eclipselink-starter" />
-          <Dependency configuration="implementation" group="io.jmix.flowui" name="jmix-flowui-starter" />
-          <Dependency configuration="implementation" group="io.jmix.flowui" name="jmix-flowui-themes" />
-          <Dependency configuration="implementation" group="io.jmix.flowui" name="jmix-flowui-kit" />
-          <Dependency configuration="implementation" group="org.projectlombok" name="lombok" version="1.18.28" />
-          <Dependency configuration="testImplementation" group="org.springframework.boot" name="spring-boot-starter-test">
-            <ExcludeRule group="org.junit.vintage" module="junit-vintage-engine" />
-          </Dependency>
-          <Dependency configuration="testImplementation" group="org.springframework.boot" name="spring-boot-starter-web" />
-          <Dependency configuration="testRuntimeOnly" group="org.hsqldb" name="hsqldb" />
-          <Dependency configuration="implementation platform" group="io.jmix.bom" name="jmix-bom" version="2.2.1" />
-        </option>
-        <option name="jarFile" value="$MODULE_DIR$/../../../restaurant-api/restaurant-api/build/libs/restaurant-api-0.0.1-SNAPSHOT.jar" />
-        <option name="jmixVersion" value="2.2.1" />
-        <option name="mavenLocalURI" value="file:$MAVEN_REPOSITORY$/" />
         <option name="moduleName" value="restaurant-api" />
-        <option name="projectId" value="rstaddn" />
-        <option name="rootBuildFilePath" value="$MODULE_DIR$/../../../restaurant-api/build.gradle" />
-        <option name="rootProjectName" value="restaurant-api-addon" />
-        <option name="stateRepositories">
-          <Repository url="https://repo.maven.apache.org/maven2/" />
-          <Repository url="https://global.repo.jmix.io/repository/public" />
-        </option>
       </JmixModuleStateV2>
     </option>
   </component>
